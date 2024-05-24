@@ -10970,3 +10970,31 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* Estilos Personalizados Marcelo Roa */
+.blockquote-footer-1 {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  font-size: 0.875em;
+  color: #6c757d;
+}
+
+.titulo-card{
+  font-weight: bold !important;
+  text-align: left !important;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.detalle-card{
+  font-weight: normal !important;
+  text-align: left !important;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
