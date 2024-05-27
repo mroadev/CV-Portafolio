@@ -10998,3 +10998,10 @@ section.resume-section .resume-section-content {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
+
+
+
+/*LEANDRO MONROY CONTRIBUTION*/
+.social-icons .social-icon:hover{
+  transform: translateX(2px);
+}
